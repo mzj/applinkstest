@@ -1,0 +1,11 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "rs.eurobank.android.newred",
+      "sha256_cert_fingerprints": [ "C2:F6:84:52:A9:A1:82:BD:97:28:8A:C8:EA:20:F3:63:D0:CA:68:E2:62:6E:C6:09:74:A6:FF:4F:F7:7D:1F:60" ],
+      [ "key" ]
+    }
+  }
+]
